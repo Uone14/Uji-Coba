@@ -3,6 +3,7 @@ import time
 import prettytable 
 import csv
 
+
 def clear_screen():
     os.system('cls')
 
